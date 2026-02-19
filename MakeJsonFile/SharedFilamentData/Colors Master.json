@@ -1,0 +1,1094 @@
+[
+  {
+    "Name": "Jade White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Beige",
+    "ColorRGB": "#F7E6DE",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Light Gray",
+    "ColorRGB": "#D1D3D5",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Silver",
+    "ColorRGB": "#A6A9AA",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Gray",
+    "ColorRGB": "#8E9089",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Magenta",
+    "ColorRGB": "#EC008C",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#F55A74",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Hot Pink",
+    "ColorRGB": "#F5547C",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#FF6A13",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Pumpkin Orange",
+    "ColorRGB": "#FF9016",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Gold",
+    "ColorRGB": "#E4BD68",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Sunflower Yellow",
+    "ColorRGB": "#FEC600",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#F4EE2A",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Bright Green",
+    "ColorRGB": "#BECF00",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Bambu Green",
+    "ColorRGB": "#00AE42",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Mistletoe Green",
+    "ColorRGB": "#3F8E43",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Bronze",
+    "ColorRGB": "#847D48",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Cocoa Brown",
+    "ColorRGB": "#6F5034",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#9D432C",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Maroon Red",
+    "ColorRGB": "#9D2235",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#C12E1F",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Turqoise",
+    "ColorRGB": "#00B1B7",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Cyan",
+    "ColorRGB": "#0086D6",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#0A2989",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Cobalt Blue",
+    "ColorRGB": "#0056B8",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#5E43B7",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Indigo Purple",
+    "ColorRGB": "#482960",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Blue Grey",
+    "ColorRGB": "#5B6579",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Gray",
+    "ColorRGB": "#545454",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Ivory White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Bone White",
+    "ColorRGB": "#CBC6B8",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Desert Tan",
+    "ColorRGB": "#E8DBB7",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Latte Brown",
+    "ColorRGB": "#D3B7A7",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Caramel",
+    "ColorRGB": "#AE835B",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Terracotta",
+    "ColorRGB": "#B15533",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Brown",
+    "ColorRGB": "#7D6556",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Chocolate",
+    "ColorRGB": "#4D3324",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Lilac Purple",
+    "ColorRGB": "#AE96D4",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Sakura Pink",
+    "ColorRGB": "#E8AFCF",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Mandarin Orange",
+    "ColorRGB": "#F99963",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Lemon Yellow",
+    "ColorRGB": "#F7D959",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Plum",
+    "ColorRGB": "#950051",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Scarlett Red",
+    "ColorRGB": "#DE4343",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Red",
+    "ColorRGB": "#BB3D43",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Green",
+    "ColorRGB": "#68724D",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Grass Green",
+    "ColorRGB": "#61C680",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Apple Green",
+    "ColorRGB": "#C2E189",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Ice Blue",
+    "ColorRGB": "#A3D8E1",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Sky Blue",
+    "ColorRGB": "#56B7E6",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Marine Blue",
+    "ColorRGB": "#0078BF",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Blue",
+    "ColorRGB": "#042F56",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Ash Gray",
+    "ColorRGB": "#9B9EA0",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Nardo Gray",
+    "ColorRGB": "#757575",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Charcoal",
+    "ColorRGB": "#000000",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#FFD00B",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#F75403",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#00AE42",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#EB3A3A",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#002E96",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Cream",
+    "ColorRGB": "#F9DFB9",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Lime Green",
+    "ColorRGB": "#6EE53C",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Forrest Green",
+    "ColorRGB": "#39541A",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Lake Blue",
+    "ColorRGB": "#1F79E5",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Peanut Brown",
+    "ColorRGB": "#875718",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Gray",
+    "ColorRGB": "#ADB1B2",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Dark Gray",
+    "ColorRGB": "#515151",
+    "FilamentType": "PETG HF",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Bambu Green",
+    "ColorRGB": "#00AE42",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Olive",
+    "ColorRGB": "#789D4A",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Azure",
+    "ColorRGB": "#489FDF",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Navy Blue",
+    "ColorRGB": "#0C2340",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#0A2CA5",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Tangerine Yellow",
+    "ColorRGB": "#FFC72C",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#FF6A13",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#D32941",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#AF1685",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Silver",
+    "ColorRGB": "#87909A",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "ABS",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFAF2",
+    "FilamentType": "ASA",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Gray",
+    "ColorRGB": "#8A949E",
+    "FilamentType": "ASA",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#E02928",
+    "FilamentType": "ASA",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#00A6A0",
+    "FilamentType": "ASA",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#2140B4",
+    "FilamentType": "ASA",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "ASA",
+    "VendorName": "Bambu Lab"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#030305",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#DDD7D3",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Steel Grey",
+    "ColorRGB": "#5D5E63",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Grey",
+    "ColorRGB": "#8B8E96",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#6447A5",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#D90102",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#4B2A17",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#F36201",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#F3AA01",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#30A45F",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Polymaker Teal",
+    "ColorRGB": "#48B9C2",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#013178",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Cold White",
+    "ColorRGB": "#EAECF5",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Magenta",
+    "ColorRGB": "#F24574",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#F1A1AF",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Wine Red",
+    "ColorRGB": "#D60212",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Cream",
+    "ColorRGB": "#EED1A8",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Beige",
+    "ColorRGB": "#C2AB72",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Lemon Yellow",
+    "ColorRGB": "#EED230",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Natural",
+    "ColorRGB": "#DFD3C3",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Olive Green",
+    "ColorRGB": "#948902",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Lime Green",
+    "ColorRGB": "#D5D701",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Jungle Green",
+    "ColorRGB": "#4E742D",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Aqua Blue",
+    "ColorRGB": "#5EBDDB",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Stone Blue",
+    "ColorRGB": "#487BA2",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Azure Blue",
+    "ColorRGB": "#0061D5",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Olive Brown",
+    "ColorRGB": "#A79565",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Dark Grey Green",
+    "ColorRGB": "#4C5F46",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Dark Grey",
+    "ColorRGB": "#6E8393",
+    "FilamentType": "PLA",
+    "VendorName": "PolyLite"
+  },
+  {
+    "Name": "Charcoal Black",
+    "ColorRGB": "#2F2E30",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Cotton White",
+    "ColorRGB": "#F4EFEB",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Beige",
+    "ColorRGB": "#DBBAA5",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Brown",
+    "ColorRGB": "#795A4D",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Earth Brown",
+    "ColorRGB": "#7C594A",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Muted White",
+    "ColorRGB": "#BBADA4",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Peanut",
+    "ColorRGB": "#BF9573",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Wood Brown",
+    "ColorRGB": "#AB7449",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Peach",
+    "ColorRGB": "#F6BF8B",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Sunrise Orange",
+    "ColorRGB": "#F88B17",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Banana",
+    "ColorRGB": "#F7D475",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Light Green",
+    "ColorRGB": "#AB8C02",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Savannah Yellow",
+    "ColorRGB": "#F3C432",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Lime Green",
+    "ColorRGB": "#D7D602",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Dark Green",
+    "ColorRGB": "#5F6244",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Mint",
+    "ColorRGB": "#D2DEBB",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Muted Green",
+    "ColorRGB": "#777E71",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Forest Green",
+    "ColorRGB": "#60AD70",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Arctic Teal",
+    "ColorRGB": "#61BCC3",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Ice",
+    "ColorRGB": "#A4D0DF",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Saphire Blue",
+    "ColorRGB": "#0163A6",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Blue",
+    "ColorRGB": "#2E4462",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Muted Blue",
+    "ColorRGB": "#5F778E",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Fossil Grey",
+    "ColorRGB": "#8A8C94",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Lavender Purple",
+    "ColorRGB": "#9572BF",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Muted Purple",
+    "ColorRGB": "#7C5C78",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Candy",
+    "ColorRGB": "#F0D6D9",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Sakura Pink",
+    "ColorRGB": "#EAADBD",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Watermelon",
+    "ColorRGB": "#EE474B",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Lava Red",
+    "ColorRGB": "#ED2F2E",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Red",
+    "ColorRGB": "#BF312E",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Muted Red",
+    "ColorRGB": "#D84B2E",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Army Purple",
+    "ColorRGB": "#36364A",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Ash Grey",
+    "ColorRGB": "#485155",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Electric Indigo",
+    "ColorRGB": "#6858A9",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Pastel Periwinkle",
+    "ColorRGB": "#ADB4E6",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Lotus Pink",
+    "ColorRGB": "#DD76C0",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Matte Sky Blue",
+    "ColorRGB": "#1AC5FC",
+    "FilamentType": "PLA Matte",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#080A0D",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#EBF7FF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Cold White",
+    "ColorRGB": "#D9DFE5",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#E72F1D",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#F67405",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Magenta",
+    "ColorRGB": "#F24574",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#F1A1AF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Wine Red",
+    "ColorRGB": "#D60212",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Lemon Yellow",
+    "ColorRGB": "#EED230",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#FFE800",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Cream",
+    "ColorRGB": "#EED1A8",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Beige",
+    "ColorRGB": "#C2AB72",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Tan",
+    "ColorRGB": "#A79E82",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#55331A",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#06924D",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Lime Green",
+    "ColorRGB": "#D5D701",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Jungle Green",
+    "ColorRGB": "#4E742D",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Olive Green",
+    "ColorRGB": "#948902",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Dark Olive Drab",
+    "ColorRGB": "#575B54",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Azure Blue",
+    "ColorRGB": "#0066D9",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#003776",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Aqua Blue",
+    "ColorRGB": "#5EBDDB",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Stone Blue",
+    "ColorRGB": "#487BA2",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Polymaker Teal",
+    "ColorRGB": "#4CC0C7",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Steel Grey",
+    "ColorRGB": "#616469",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Grey",
+    "ColorRGB": "#8C9099",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Dark Grey",
+    "ColorRGB": "#485259",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#6C47B2",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Panchroma"
+  }
+]
