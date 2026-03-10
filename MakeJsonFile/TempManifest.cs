@@ -14,9 +14,9 @@ namespace MakeJsonFile
         public static async Task<Manifest> GetWebManifestAsync()
         {
             var http = new HttpClient() { Timeout = new TimeSpan(0, 0, 20) };
-            var shareId = ToShareId("https://onedrive.live.com/?id=%2Fpersonal%2Fc4fbbe9a9de3eb18%2FDocuments%2FDocuments2%2FFilamentSharedContent%2FManifest%2Ejson&parent=%2Fpersonal%2Fc4fbbe9a9de3eb18%2FDocuments%2FDocuments2%2FFilamentSharedContent");
-            var downloadUrl = $"https://graph.microsoft.com/v1.0/shares/{shareId}/root/content";
-            var json = await DownloadJsonAsync("https://onedrive.live.com/?viewid=c4bb30fb%2D8866%2D4f23%2Da759%2D87a09bcb2ffd&id=%2Fpersonal%2Fc4fbbe9a9de3eb18%2FDocuments%2FDocuments2%2FFilamentSharedContent%2FColors%20Master%2Ejson&parent=%2Fpersonal%2Fc4fbbe9a9de3eb18%2FDocuments%2FDocuments2%2FFilamentSharedContent");
+            //var shareId = ToShareId("https://onedrive.live.com/?id=%2Fpersonal%2Fc4fbbe9a9de3eb18%2FDocuments%2FDocuments2%2FFilamentSharedContent%2FManifest%2Ejson&parent=%2Fpersonal%2Fc4fbbe9a9de3eb18%2FDocuments%2FDocuments2%2FFilamentSharedContent");
+            //var downloadUrl = $"https://graph.microsoft.com/v1.0/shares/{shareId}/root/content";
+            var json = await http.GetStringAsync("https://github.com/markinnh/MakeJsonFile/blob/master/MakeJsonFile/SharedFilamentData/Manifest.json?raw=true");
             var manifest = System.Text.Json.JsonSerializer.Deserialize<Manifest>(json) ?? new Manifest();
             return manifest;
         }
@@ -122,7 +122,7 @@ namespace MakeJsonFile
             var directUrl = await ResolveOneDriveDownloadUrlAsync(shareUrl);
             var downloadUrl = $"https://onedrive.live.com/{directUrl}";
             using var http = new HttpClient();
-            return await http.GetStringAsync(downloadUrl);
+            return await http.GetStringAsync(directUrl);
         }
     }
 }

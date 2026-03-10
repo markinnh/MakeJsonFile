@@ -1090,5 +1090,701 @@
     "ColorRGB": "#6C47B2",
     "FilamentType": "PLA Basic",
     "VendorName": "Panchroma"
+  },
+  {
+    "Name": "Grey Blue",
+    "ColorRGB": "#81BAC1",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFEFA",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#E9301E",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Cream Yellow",
+    "ColorRGB": "#D4A216",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Violet",
+    "ColorRGB": "#6F4AB2",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Gray Blue",
+    "ColorRGB": "#6D8791",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Champagne Frost",
+    "ColorRGB": "#F9EEB3",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Wine",
+    "ColorRGB": "#722F37",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#033877",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Cold White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Rock",
+    "ColorRGB": "#AA8F74",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Space Gray",
+    "ColorRGB": "#63646B",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Metallic Gray",
+    "ColorRGB": "#8B98AC",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Cream Purple",
+    "ColorRGB": "#CDC1FF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#F09BB5",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Light Green",
+    "ColorRGB": "#BCD69B",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Royal Gold",
+    "ColorRGB": "#FFCB47",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "White Oak",
+    "ColorRGB": "#976D51",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Highlight Yellow",
+    "ColorRGB": "#E4FF33",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#6F4AB2",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#D7A86A",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Cream Red",
+    "ColorRGB": "#EC6170",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Cream Orange",
+    "ColorRGB": "#FF7B00",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Fresh Red",
+    "ColorRGB": "#E31A1F",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Lemon Yellow",
+    "ColorRGB": "#FFED29",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Olive Green",
+    "ColorRGB": "#97A014",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#FF8E24",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Chocolate",
+    "ColorRGB": "#57361C",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Green2",
+    "ColorRGB": "#00C26B",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Light Blue",
+    "ColorRGB": "#3ABBDE",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Light Gray",
+    "ColorRGB": "#C7D4D6",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Cement Gray",
+    "ColorRGB": "#697272",
+    "FilamentType": "PLA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Ash Grey",
+    "ColorRGB": "#7B7C80",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Bright Green",
+    "ColorRGB": "#D6ED0D",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Cocoa Brown",
+    "ColorRGB": "#35281E",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Cyan",
+    "ColorRGB": "#00ADFF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Dark Blue",
+    "ColorRGB": "#012F7B",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Dark Yellow",
+    "ColorRGB": "#FFC433",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Fire Engine Red",
+    "ColorRGB": "#690000",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Grass Green",
+    "ColorRGB": "#96D35F",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#32C759",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Indigo Purple",
+    "ColorRGB": "#21003F",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#FF7D00",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#C54B8C",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Pumpkin Orange",
+    "ColorRGB": "#F9AF10",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#4D22B2",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#FF0000",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Sky Blue",
+    "ColorRGB": "#65BCFF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Sunflower Yellow",
+    "ColorRGB": "#FFDA03",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#FFDD00",
+    "FilamentType": "PLA Basic",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Apple Green",
+    "ColorRGB": "#76CD26",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Ash Grey",
+    "ColorRGB": "#7B7C80",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Ash Purple",
+    "ColorRGB": "#B29794",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Burgundy",
+    "ColorRGB": "#800020",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Dark Blue",
+    "ColorRGB": "#000040",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Dark Brown",
+    "ColorRGB": "#7D6556",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Dark Chocolate",
+    "ColorRGB": "#3E1F00",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Dark Green",
+    "ColorRGB": "#545E3B",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Desert Tan",
+    "ColorRGB": "#E8DBB7",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Grass Green",
+    "ColorRGB": "#61C680",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Lemon Yellow",
+    "ColorRGB": "#F7D959",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Lilac Purple",
+    "ColorRGB": "#AE96D4",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Nardo Grey",
+    "ColorRGB": "#757575",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#F99963",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Pastel Teal",
+    "ColorRGB": "#40E0D0",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Plum",
+    "ColorRGB": "#950051",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#BE3231",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Sakura Pink",
+    "ColorRGB": "#FFB7C5",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFF1",
+    "FilamentType": "PLA Matte",
+    "VendorName": "MarsWork"
+  },
+  {
+    "Name": "Army Green",
+    "ColorRGB": "#404720",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#034E89",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#A47C48",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Digital Blue",
+    "ColorRGB": "#0378D0",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Gold",
+    "ColorRGB": "#CE8D00",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Grass Green",
+    "ColorRGB": "#C4D802",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#38AF69",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Light Gray",
+    "ColorRGB": "#D5D8DD",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Magenta",
+    "ColorRGB": "#C80181",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#FF854D",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#F79DBC",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#7142A3",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#FF0000",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Rock",
+    "ColorRGB": "#B7BBBD",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Space Gray",
+    "ColorRGB": "#76797D",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Sparkle Blue",
+    "ColorRGB": "#253F56",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Starry Blue",
+    "ColorRGB": "#142B4B",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#F5F5F4",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#FFC946",
+    "FilamentType": "PETG",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#0080DB",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Dark Red",
+    "ColorRGB": "#FF311F",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Diamond Grey",
+    "ColorRGB": "#8C8C8C",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Diamond Orange",
+    "ColorRGB": "#E66700",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Gray",
+    "ColorRGB": "#CACAC9",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#3D9441",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Slate Gray",
+    "ColorRGB": "#91A086",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "ABS",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#002979",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#3A2522",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Diamond Red",
+    "ColorRGB": "#FF0000",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Diamond Blue",
+    "ColorRGB": "#324283",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Diamond Green",
+    "ColorRGB": "#3A9856",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Gray",
+    "ColorRGB": "#B5B9BA",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#01AA5E",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Natural",
+    "ColorRGB": "#FDFAE2",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Olive Green",
+    "ColorRGB": "#008040",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#AF251E",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#FBFF00",
+    "FilamentType": "ASA Basic",
+    "VendorName": "Overture"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#FBB741",
+    "FilamentType": "ASA Easy",
+    "VendorName": "Overture"
   }
 ]
