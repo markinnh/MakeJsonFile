@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "PLA",
+    "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PETG",
+    "ScientificName": "Polyethylene terephthalate glycol"
+  },
+  {
+    "Name": "ABS",
+    "ScientificName": "acrylonitrile butadiene styrene"
+  },
+  {
+    "Name": "PC",
+    "ScientificName": "Polycaprolactone"
+  },
+  {
+    "Name": "TPU",
+    "ScientificName": "Thermoplastic Polyerethane"
+  },
+  {
+    "Name": "PCTG",
+    "ScientificName": "Poly Cyclohexylenedimethylene Terephthalate glycol"
+  },
+  {
+    "Name": "ASA",
+    "ScientificName": "acrylonitrile - styrene - acrylate"
+  },
+  {
+    "Name": "PLA Matte",
+    "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PLA Aero",
+    "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PLA Silk",
+    "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PLA CF",
+    "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PLA Metal",
+    "ScientificName": "Polylactic Acid"
+  }
+]
