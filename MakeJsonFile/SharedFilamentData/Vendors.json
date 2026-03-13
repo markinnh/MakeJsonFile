@@ -1,328 +1,132 @@
-{
-  "ExportID": "a1b2c3d4-e5f6-47a8-90b1-c2d3e4f5a6b7",
-  "IsArray": true,
-  "Content": [
-    {
-      "CanDelete": false,
-      "Name": "HatchBox",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.hatchbox3d.com/",
-      "SpoolDefns": [
-        {
-          "Description": "Black plastic",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 77,
-          "SpoolWidth": 63,
-          "Weight": 1,
-          "Verified": false
-        }
-      ]
-    },
-    {
-      "CanDelete": false,
-      "Name": "Sunlu",
-      "FoundOnAmazon": true,
-      "WebUrl": "http://www.sunlugw.com/",
-      "SpoolDefns": [
-        {
-          "Description": "Clear plastic",
-          "SpoolDiameter": 195,
-          "DrumDiameter": 68,
-          "SpoolWidth": 55,
-          "Weight": 1,
-          "Verified": false
-        },
-        {
-          "Description": "Black Plastic",
-          "SpoolDiameter": 197,
-          "DrumDiameter": 82,
-          "SpoolWidth": 54,
-          "Weight": 1,
-          "Verified": false
-        },
-        {
-          "Description": "Black Plastic New 2025",
-          "SpoolDiameter": 195,
-          "DrumDiameter": 76,
-          "SpoolWidth": 50,
-          "Weight": 1,
-          "Verified": false
-        }
-      ],
-      "Tags": "#rainbow #pla #silkpla #petg #using"
-    },
-    {
-      "CanDelete": false,
-      "Name": "Flashforge",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://flashforge-usa.com/",
-      "SpoolDefns": [
-        {
-          "Description": "Black plastic",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 68,
-          "SpoolWidth": 58,
-          "Weight": 1,
-          "Verified": false
-        }
-      ]
-    },
-    {
-      "CanDelete": false,
-      "Name": "Prusament",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://prusament.com/",
-      "SpoolDefns": [
-        {
-          "Description": "Black",
-          "SpoolDiameter": 190,
-          "DrumDiameter": 53,
-          "SpoolWidth": 53,
-          "Weight": 0.5,
-          "Verified": false
-        }
-      ]
-    },
-    {
-      "CanDelete": true,
-      "Name": "3D-Fuel",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.3dfuel.com/collections/pro-pla",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": false,
-      "Name": "Bambu Lab",
-      "FoundOnAmazon": false,
-      "WebUrl": "https://www.bambulab.com",
-      "SpoolDefns": [
-        {
-          "Description": "reusable",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 88,
-          "SpoolWidth": 61,
-          "Weight": 1,
-          "Verified": true
-        }
-      ],
-      "Tags": "#pla #petg #favorite #using"
-    },
-    {
-      "CanDelete": false,
-      "Name": "Overture",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://overture3d.com/",
-      "SpoolDefns": [
-        {
-          "Description": "Black Plastic",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 98,
-          "SpoolWidth": 60,
-          "Weight": 1,
-          "Verified": true
-        },
-        {
-          "Description": "Bambu Spool",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 88,
-          "SpoolWidth": 61,
-          "Weight": 1,
-          "Verified": true
-        },
-        {
-          "Description": "Cardboard",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 96,
-          "SpoolWidth": 58,
-          "Weight": 1,
-          "Verified": true
-        }
-      ],
-      "Tags": "#petg #pla #using"
-    },
-    {
-      "CanDelete": true,
-      "Name": "Amolen",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://amolen.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Geetech",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.geeetech.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "iSanMate",
-      "FoundOnAmazon": true,
-      "WebUrl": "http://www.isanmate.net/index.php?lang=en",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Ziro",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://ziro3d.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Gudteks",
-      "FoundOnAmazon": true,
-      "WebUrl": "http://gudteks.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Eryone",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://eryone3d.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Reprapper",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.reprapwarehouse.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": false,
-      "Name": "Polymaker",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://polymaker.com/",
-      "SpoolDefns": [
-        {
-          "Description": "Panchroma",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 94,
-          "SpoolWidth": 62,
-          "Weight": 1,
-          "Verified": false
-        }
-      ]
-    },
-    {
-      "CanDelete": true,
-      "Name": "Aystkniet",
-      "FoundOnAmazon": true,
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Comgrow",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.comgrow.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Shengtian",
-      "FoundOnAmazon": true,
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Gizmo Dorks",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://gizmodorks.com/pla-3d-printer-filament/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "CCTree3d",
-      "FoundOnAmazon": true,
-      "WebUrl": "http://www.cctree3dstore.com/collections/pla-filament-371",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Monoprice",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.monoprice.com/pages/3d_printers",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Makerbot",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://www.makerbot.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": true,
-      "Name": "Ataraxia",
-      "FoundOnAmazon": true,
-      "WebUrl": "https://ataraxiaart.com/",
-      "SpoolDefns": []
-    },
-    {
-      "CanDelete": false,
-      "Name": "Testing",
-      "FoundOnAmazon": false,
-      "SpoolDefns": [
-        {
-          "Description": "Black Plastic",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 77,
-          "SpoolWidth": 63,
-          "Weight": 1,
-          "Verified": false
-        }
-      ],
-      "Tags": "#using #testing"
-    },
-    {
-      "CanDelete": false,
-      "Name": "American Filament",
-      "FoundOnAmazon": false,
-      "WebUrl": "https://americanfilament.us/",
-      "SpoolDefns": [
-        {
-          "Description": "Black Plastic",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 88,
-          "SpoolWidth": 61,
-          "Weight": 0,
-          "Verified": false
-        }
-      ]
-    },
-    {
-      "CanDelete": false,
-      "Name": "Mars Works",
-      "FoundOnAmazon": true,
-      "SpoolDefns": [
-        {
-          "Description": "reusable",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 88,
-          "SpoolWidth": 61,
-          "Weight": 1,
-          "Verified": false
-        }
-      ],
-      "Tags": "#BambuLab #pla"
-    },
-    {
-      "CanDelete": false,
-      "Name": "Inland",
-      "FoundOnAmazon": false,
-      "WebUrl": "https://www.microcenter.com",
-      "SpoolDefns": [
-        {
-          "Description": "cardboard",
-          "SpoolDiameter": 200,
-          "DrumDiameter": 86.4,
-          "SpoolWidth": 59,
-          "Weight": 1,
-          "Verified": true
-        }
-      ]
-    }
-  ],
-  "About": "Exported 27 items of \u0027VendorDefn\u0027 on 2026-03-11 17:23:29"
-}
+[
+  {
+    "Name": "Sunlu",
+    "Website": "http://www.sunlugw.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Flashforge",
+    "Website": "https://flashforge-usa.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Prusament",
+    "Website": "https://prusament.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "3D-Fuel",
+    "Website": "https://www.3dfuel.com/collections/pro-pla",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Bambu Lab",
+    "Website": "https://www.bambulab.com",
+    "FoundOnAmazon": false
+  },
+  {
+    "Name": "Overture",
+    "Website": "https://overture3d.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Amolen",
+    "Website": "https://amolen.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Geetech",
+    "Website": "https://www.geeetech.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "iSanMate",
+    "Website": "http://www.isanmate.net/index.php?lang=en",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Ziro",
+    "Website": "https://ziro3d.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Gudteks",
+    "Website": "http://gudteks.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Eryone",
+    "Website": "https://eryone3d.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Reprapper",
+    "Website": "https://www.reprapwarehouse.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Polymaker",
+    "Website": "https://polymaker.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Aystkniet",
+    "Website": "",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Comgrow",
+    "Website": "https://www.comgrow.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Shengtian",
+    "Website": "",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Gizmo Dorks",
+    "Website": "https://gizmodorks.com/pla-3d-printer-filament/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "CCTree3d",
+    "Website": "http://www.cctree3dstore.com/collections/pla-filament-371",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Monoprice",
+    "Website": "https://www.monoprice.com/pages/3d_printers",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Makerbot",
+    "Website": "https://www.makerbot.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Ataraxia",
+    "Website": "https://ataraxiaart.com/",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Testing",
+    "Website": "",
+    "FoundOnAmazon": false
+  },
+  {
+    "Name": "American Filament",
+    "Website": "https://americanfilament.us/",
+    "FoundOnAmazon": false
+  },
+  {
+    "Name": "Mars Works",
+    "Website": "",
+    "FoundOnAmazon": true
+  },
+  {
+    "Name": "Inland",
+    "Website": "https://www.microcenter.com",
+    "FoundOnAmazon": false
+  }
+]

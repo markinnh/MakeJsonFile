@@ -8,9 +8,10 @@ var projectDirectory = executingPath.Substring(0, executingPath.IndexOf("\\bin")
 var colorsOutpath = Path.Combine(projectDirectory, "SharedFilamentData", "Colors Master.json");
 var manifestPath = Path.Combine(projectDirectory, "SharedFilamentData", "Manifest.json");
 var materialOutpath = Path.Combine(projectDirectory, "SharedFilamentData", "material.json");
+var vendorOutpath = Path.Combine(projectDirectory, "SharedFilamentData", "Vendors.json");
 var colorsInpath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Colors Master.csv");
 var materialInpath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Material Master.csv");
-var inpathVendors = Path.Combine(projectDirectory, "SharedFilamentData", "Vendors.json");
+var inpathVendors = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Filament\\Exchange\\Vendors", "Vendors.csv");
 var manifest = Manifest.GetManifest(manifestPath);
 var colorsUpdated = false;
 var webManifest = await WebManifest.GetWebManifestAsync();
@@ -18,13 +19,20 @@ bool updateVendors = false;
 bool materialUpdated = false;
 if (CheckIfContentsNeedsUpdating(colorsInpath, manifest.ColorsLastUpdated))
 {
-    Console.WriteLine("Contents need updating, updating the json file.");
+    Console.WriteLine("Colors need updating, updating the json file.");
     var json = System.Text.Json.JsonSerializer.Serialize(ImportColorContent.ImportContents(colorsInpath), new System.Text.Json.JsonSerializerOptions { WriteIndented = true });
     File.WriteAllText(colorsOutpath, json);
     colorsUpdated = true;
 }
-if (CheckIfVendorsNeedsUpdating(inpathVendors, webManifest.VendorsLastUpdated))
+if (CheckIfVendorsNeedsUpdating(inpathVendors, webManifest.VendorsLastUpdated)) { 
+    Console.WriteLine("Vendors need updating, updating the json file.");
+    var vendors = ImportVendorContent.ImportContents(inpathVendors);
+
+    var json = System.Text.Json.JsonSerializer.Serialize(vendors, new System.Text.Json.JsonSerializerOptions { WriteIndented = true });
+    File.WriteAllText(vendorOutpath, json);
     updateVendors = true;
+}
+
 if (CheckIfContentsNeedsUpdating(materialInpath, webManifest.MaterialLastUpdated))
 {
     Console.WriteLine("Material needs updating, updating the material json file.");

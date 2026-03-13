@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ExportPackage.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="SharedFilamentData\" />
   </ItemGroup>
 
