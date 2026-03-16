@@ -46,5 +46,9 @@
   {
     "Name": "PLA Metal",
     "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PLA Basic",
+    "ScientificName": "Polylactic Acid"
   }
 ]
