@@ -1786,5 +1786,353 @@
     "ColorRGB": "#FBB741",
     "FilamentType": "ASA Easy",
     "VendorName": "Overture"
+  },
+  {
+    "Name": "Almond Yellow",
+    "ColorRGB": "#FFFFC3",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Apricot",
+    "ColorRGB": "#FFCF56",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Aqua",
+    "ColorRGB": "#45DBEA",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Baby Blue",
+    "ColorRGB": "#98FFFF",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Baby Pink",
+    "ColorRGB": "#DDA3B0",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Beige",
+    "ColorRGB": "#DBBBA1",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Black",
+    "ColorRGB": "#000000",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Blue",
+    "ColorRGB": "#1932B3",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Bone White",
+    "ColorRGB": "#E5DCC8",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Brick Red",
+    "ColorRGB": "#9B5347",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Brown",
+    "ColorRGB": "#775135",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Candy Pink",
+    "ColorRGB": "#EAA1B2",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Cold White",
+    "ColorRGB": "#F5FAFF",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Concrete Grey",
+    "ColorRGB": "#DEDEDE",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Cool White",
+    "ColorRGB": "#F9FAFA",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Coral Orange",
+    "ColorRGB": "#FF572F",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Dark Blue",
+    "ColorRGB": "#11204B",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Dark Grey",
+    "ColorRGB": "#2A2A27",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Dark Yellow",
+    "ColorRGB": "#BA8E23",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Fire Engine Red",
+    "ColorRGB": "#91202B",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Gold",
+    "ColorRGB": "#C99B27",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Grass Green",
+    "ColorRGB": "#009952",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Green",
+    "ColorRGB": "#003C38",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Green (Pantone 323C)",
+    "ColorRGB": "#005F61",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Grey",
+    "ColorRGB": "#606D83",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Haze Blue",
+    "ColorRGB": "#3B6FA0",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Holly Green",
+    "ColorRGB": "#004D28",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Hot Pink",
+    "ColorRGB": "#FF46A2",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Jade Green",
+    "ColorRGB": "#33C48F",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Light Blue",
+    "ColorRGB": "#169BEA",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Light Brown",
+    "ColorRGB": "#9B7348",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Light Grey",
+    "ColorRGB": "#B4B469",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Light Khaki",
+    "ColorRGB": "#D6C9AF",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Lilac",
+    "ColorRGB": "#DEBBFF",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Magenta",
+    "ColorRGB": "#DA3B6D",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Matcha Green",
+    "ColorRGB": "#C1F469",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Milky White",
+    "ColorRGB": "#D9E0E3",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Mint Green",
+    "ColorRGB": "#D8FFE6",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Morandi Green",
+    "ColorRGB": "#00542B",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Mustard Green",
+    "ColorRGB": "#E4FF82",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Olive Green",
+    "ColorRGB": "#555B46",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Orange",
+    "ColorRGB": "#EF774A",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Peach Pink",
+    "ColorRGB": "#FFF9f5",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Peak Green",
+    "ColorRGB": "#BAFF72",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Periwinkle Blue",
+    "ColorRGB": "#8972E9",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Pine Green",
+    "ColorRGB": "#00646F",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Pink",
+    "ColorRGB": "#EF7AA4",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Purple",
+    "ColorRGB": "#8350A5",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Red",
+    "ColorRGB": "#AE000C",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "RGB Red",
+    "ColorRGB": "#FF0000",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Silver",
+    "ColorRGB": "#8B888A",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Skin",
+    "ColorRGB": "#F9CB9C",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Space Blue",
+    "ColorRGB": "#4AC3F0",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Very Peri",
+    "ColorRGB": "#6667AB",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Violet",
+    "ColorRGB": "#6E3CA0",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Warm White",
+    "ColorRGB": "#FFFCFA",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "White",
+    "ColorRGB": "#FFFFFF",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
+  },
+  {
+    "Name": "Yellow",
+    "ColorRGB": "#FFFF00",
+    "FilamentType": "PLA Plus",
+    "VendorName": "eSun"
   }
 ]

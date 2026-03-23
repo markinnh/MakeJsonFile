@@ -50,5 +50,9 @@
   {
     "Name": "PLA Basic",
     "ScientificName": "Polylactic Acid"
+  },
+  {
+    "Name": "PLA Plus",
+    "ScientificName": "Polylactic Acid"
   }
 ]
